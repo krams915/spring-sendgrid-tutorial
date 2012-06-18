@@ -1,0 +1,18 @@
+Description
+===========
+Sample application demonstrating how to integrate Spring and SendGrid's email service.
+
+To read the whole guide, please see the original blog:
+
+"Email Integration with SendGrid and Spring"
+http://krams915.blogspot.com/2012/06/email-with-spring-and-sendgrid-part-1.html
+
+
+Building
+========
+Please visit http://krams915.blogspot.com/2012/06/email-with-spring-and-sendgrid-part-5.html for full instructions
+
+
+Notes
+=====
+For more tutorials, please visit http://krams915.blogspot.com/
