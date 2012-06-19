@@ -37,12 +37,12 @@
             
             // reset back so that future users aren't affected
             config = {
-                    url: url,
+                    url: null,
                     type: "GET",
                     data: null,
                     dataType: null,
                     contentType: "application/x-www-form-urlencoded",
-                    success: callbackSuccess
+                    success: null
                 };
             $.ajaxSetup(config);
         }
