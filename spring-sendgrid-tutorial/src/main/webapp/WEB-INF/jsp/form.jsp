@@ -21,7 +21,7 @@
 		$('input:button').button();
 		$('#submit').button();
 		
-		$('#emailForm').submit(function() {
+		$('#emailForm').submit(function(event) {
 			event.preventDefault();	
 			
 			$.postJSON('${sendUrl}', {
